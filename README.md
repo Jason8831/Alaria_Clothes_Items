@@ -1,5 +1,5 @@
-# Alaria_Clothes_Items
-Image Vêtements Alaria
+# Alaria_Image_Items
+Image Alaria
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)  
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://choosealicense.com/licenses/gpl-3.0/)  
